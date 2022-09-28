@@ -1,0 +1,33 @@
+.title {
+    font-size: 48px;
+    color: yellow;
+}
+
+.info {
+    font-size: 24px;
+    color: yellow;
+}
+
+.cars {
+    font-size: 48px;
+}
+
+.address {
+    color: white;
+    font-size: 32px;
+}
+
+.autoParts {
+    position: fixed;
+    right: 60px;
+    bottom: -10px;
+}
+
+.showBtn {
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border: 0;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
